@@ -10,4 +10,4 @@ List of my certifications I have or currently working on.
 
 ## What I am currently working on.
 
-I am currently working on completing my Google Cyber Security Professional Certficate and aim to complete it by March 2025. 
+I am currently working on COMPtia Security + afterwards i will go for a AWS then a Splunk Course. 
