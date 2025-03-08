@@ -10,4 +10,4 @@ List of my certifications I have or currently working on.
 
 ## What I am currently working on.
 
-I am currently working on COMPtia Security + afterwards i will go for a AWS then a Splunk Course. 
+I am currently working on  compTIA Security + afterwards i will go for a AWS then a Splunk Course. 
